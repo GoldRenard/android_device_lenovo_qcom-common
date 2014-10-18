@@ -20,6 +20,6 @@
 <resources>
     <!-- Build condition,duration_in_milliseconds -->
     <string-array name="keypress_vibration_durations" translatable="false">
-        <item>MANUFACTURER=lenovo,30</item>
+        <item>MANUFACTURER=LENOVO,30</item>
     </string-array>
 </resources>
